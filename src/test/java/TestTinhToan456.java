@@ -1,13 +1,12 @@
-package folderTest;
-
+import org.example.service.TinhToanService;
 import org.junit.Test;
-import trantien.com.service.TinhToanService;
 
 import java.util.Arrays;
 import java.util.Collections;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
+
 
 public class TestTinhToan {
     TinhToanService service = new TinhToanService();
