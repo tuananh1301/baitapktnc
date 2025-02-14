@@ -1,4 +1,4 @@
-package trantien.com.service;
+package org.example.service;
 import java.util.Arrays;
 public class ServiceBai6 {
     public static int findMin(int[] array) {

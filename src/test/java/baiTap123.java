@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class baiTap {
+public class baiTap123 {
     public int multiply(int a, int b) {
         return a * b;
     }

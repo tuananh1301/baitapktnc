@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
-public class TestTinhToan {
+public class TestTinhToan456 {
     TinhToanService service = new TinhToanService();
 
     @Test

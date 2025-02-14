@@ -1,4 +1,4 @@
-package trantien.com.service;
+package org.example.service;
 
 public class ServiceBai5 {
     private String name;

@@ -1,8 +1,8 @@
-package folderTest;
+import org.example.service.ServiceBai5;
 import org.junit.jupiter.api.Test;
-import trantien.com.service.ServiceBai5;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestBai5 {
     @Test
     void testGetName_ValidProfile() {

@@ -1,8 +1,7 @@
-package folderTest;
+import org.example.service.ServiceBai6;
 import org.junit.jupiter.api.Test;
-import trantien.com.service.ServiceBai6;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestBai6 {
     @Test
     void testFindMin_ValidArray() {

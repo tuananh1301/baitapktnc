@@ -1,15 +1,13 @@
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class testBaiTap {
-    baiTap bt = new baiTap();
+public class testBaiTap123 {
+    baiTap123 bt = new baiTap123();
     @Test
     public void testMultiplication() {
         Assertions.assertEquals(0, bt.multiply(0, 5));
